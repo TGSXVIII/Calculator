@@ -1,0 +1,19 @@
+# Composer dependencies
+/vendor/
+
+# Composer lock file (if preferred)
+composer.lock
+
+# PHP built files
+.phpunit.result.cache
+
+# Environment variables
+.env
+
+# IDE/editor files
+/.idea/
+/.vscode/
+
+# Cache files
+/cache/
+/logs/
