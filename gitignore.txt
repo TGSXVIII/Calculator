@@ -1,0 +1,52 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.user
+*.swp
+*.bak
+
+# Logs and temp files
+*.log
+*.tmp
+*.cache
+pids/
+*.pid
+*.seed
+*.lock
+*.gz
+
+# Dependency directories (general)
+node_modules/
+vendor/
+dist/
+build/
+out/
+target/
+
+# Security
+.env
+.env.local
+*.pem
+*.crt
+*.key
+
+# Database and data files
+*.sqlite
+*.db
+*.db-wal
+*.db-shm
+*.sql
+*.csv
+
+# Backup files
+*.bak
+*.swp
+*.swo
+*.orig
+*.old
